@@ -46,7 +46,7 @@ $bp : (
   padding: 4vh;
   color: white;
 }
-@media (max-width: 670px) {
+@media (max-width: 669px) {
   .menu-options {
     flex-direction: column;
     align-items: center;
